@@ -1,0 +1,4 @@
+[ {"name": "g1", "oracle": "constraint", "session": "stage-journey", "surface": "grid", "rule_family": "pack"},
+  {"name": "g2", "oracle": "constraint", "session": "stage-journey", "surface": "grid", "rule_family": "route"},
+  {"name": "g3", "oracle": "constraint", "session": "stage-journey", "surface": "grid", "rule_family": "sort"},
+  {"name": "g4", "oracle": "constraint", "session": "stage-journey", "surface": "grid", "rule_family": "slide"} ]

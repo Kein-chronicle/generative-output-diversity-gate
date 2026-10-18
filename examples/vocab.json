@@ -1,0 +1,4 @@
+{ "oracle": ["constraint", "dataset", "measurement"],
+  "session": ["stage-journey", "daily-set", "run-attempt"],
+  "surface": ["grid", "canvas", "side-stage"],
+  "rule_family": ["pack", "route", "sort", "slide", "timing"] }
